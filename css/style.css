@@ -1,0 +1,50 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+max-width: 1440px;
+border: 1px solid red;
+margin: 0 auto;
+
+}
+nav{
+  background-color: #FAFAFA;
+}
+  
+ul{
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  
+ 
+}
+a {
+  text-decoration: none;
+  color: #737373;
+
+}
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+
+.img-header{
+  margin-left: 195px;
+  margin-top: 24px;
+}
+.home-btns{
+
+    
+}
+
+
+ /* ABOUT US */
+ h2{
+  text-align: center;
+ }
+ 
